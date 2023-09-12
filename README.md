@@ -4,6 +4,8 @@
 > 
 >> docker compose up -d
 > 
+> To execute above need a configuration file, which is docker-compose.yml under resources.
+> 
 > once its up you can check logs
 > 
 >> docker logs postgres -f
