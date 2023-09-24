@@ -32,7 +32,7 @@
 > 
 > >select * from customer;
 > 
-> Add Repository & expose get end point to get all customers
+> Add Repository & expose GET method end point to get all customers
 > this can be validated using the Postman tool
 > 
 > http://localhost:8080/api/customers/all
